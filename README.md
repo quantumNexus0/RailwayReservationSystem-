@@ -63,13 +63,19 @@ A GUI-based desktop application for managing railway reservations with features 
 
 ---
 
-## 📸 Screenshots  
+## 📸 Screenshots 
+
+### Login page
+![Login page](src/Login.png)
+
+### Main Page
+![Main page](src/Main.png)
 
 ### Reservation Page  
-
+![Reservation Page ](src/Reservation.png)
 
 ### Add Train Page  
- 
+ ![Add Train Page](src/AddTrain.png)
 
 ---
 
