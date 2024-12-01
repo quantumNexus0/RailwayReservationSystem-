@@ -66,16 +66,16 @@ A GUI-based desktop application for managing railway reservations with features 
 ## 📸 Screenshots 
 
 ### Login page
-![Login page](src/Login.png)
+![Login page](./RailwayReservationSystem/src/images/Login.png)
 
 ### Main Page
-![Main page](src/Main.png)
+![Main page](./RailwayReservationSystem/src/images/Main.png)
 
 ### Reservation Page  
-![Reservation Page ](src/Reservation.png)
+![Reservation Page ](./RailwayReservationSystem/src/images/Reservation.png)
 
 ### Add Train Page  
- ![Add Train Page](src/AddTrain.png)
+ ![Add Train Page](./RailwayReservationSystem/src/images/AddTrain.png)
 
 ---
 
